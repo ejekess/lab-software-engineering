@@ -1,1 +1,2 @@
 for branch in  dev1 -ljy
+for git push in dev1 -ljy
