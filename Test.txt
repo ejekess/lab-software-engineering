@@ -1,1 +1,1 @@
-for branch dev1 -ljy
+for branch in  dev1 -ljy
