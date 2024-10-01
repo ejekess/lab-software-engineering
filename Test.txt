@@ -1,4 +1,0 @@
-for 1 test
-for git pull test
-for git push test  -ljy;
-for git push test  -cjh;
